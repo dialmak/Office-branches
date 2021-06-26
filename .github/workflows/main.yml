@@ -1,0 +1,31 @@
+name: Grab data Office16 (prod)
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '*/50 * * * *'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Manual'
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 15.14.0
+      - run: |
+          sh tools/launch.sh
+      - run: |
+          git config core.autocrlf true
+          git config user.name "dialmak"
+      - run: |
+          git add .
+          git branch -u origin/master
+          git status
+          git commit -m "Get data Office16 $(date)"
+          git push
