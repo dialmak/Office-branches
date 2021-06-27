@@ -2,14 +2,15 @@
 
 const https = require("https");
 
+const getName = "Semi-Annual Enterprise Channel [Dogfood]            ";
 const getBranch = "Dogfood::DCEXT" + "      ";
 const getFFN = "c4a7726f-06ea-48e2-a13a-9d78849eb706";
 
 const getLastUpdated = "--------------";
 const getBuild = "----------------";
 
-function print(getBranch, getBuild, getLastUpdated, getFFN) {
-    console.log(getBranch + "  " + getBuild + "  " + getLastUpdated + "  " + getFFN);
+function print(getName, getBranch, getBuild, getLastUpdated, getFFN) {
+    console.log(getName + "|" + getBranch + "|" + getBuild + "|" + getLastUpdated + "|" + getFFN);
 }
 
 https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RReleaseData?audienceFFN=" + getFFN, (getResponse) => {
@@ -36,5 +37,5 @@ https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RRe
         }
     });
 }).on("error", (getError) => {
-    print(getBranch, getBuild, getLastUpdated, getFFN);
+    print(getName, getBranch, getBuild, getLastUpdated, getFFN);
 });

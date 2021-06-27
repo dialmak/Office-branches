@@ -2,14 +2,15 @@
 
 const https = require("https");
 
+const getName = "Perpetual 2019 Enterprise Channel (Preview)         ";
 const getBranch = "Insiders::LTSC" + "      ";
 const getFFN = "2e148de9-61c8-4051-b103-4af54baffbb4";
 
 const getLastUpdated = "--------------";
 const getBuild = "----------------";
 
-function print(getBranch, getBuild, getLastUpdated, getFFN) {
-    console.log(getBranch + "  " + getBuild + "  " + getLastUpdated + "  " + getFFN);
+function print(getName, getBranch, getBuild, getLastUpdated, getFFN) {
+    console.log(getName + "|" + getBranch + "|" + getBuild + "|" + getLastUpdated + "|" + getFFN);
 }
 
 https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RReleaseData?audienceFFN=" + getFFN, (getResponse) => {
@@ -36,5 +37,5 @@ https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RRe
         }
     });
 }).on("error", (getError) => {
-    print(getBranch, getBuild, getLastUpdated, getFFN);
+    print(getName, getBranch, getBuild, getLastUpdated, getFFN);
 });

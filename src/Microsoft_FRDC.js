@@ -2,14 +2,15 @@
 
 const https = require("https");
 
+const getName = "Semi-Annual Enterprise Channel (Preview) [Microsoft]";
 const getBranch = "Microsoft::FRDC" + "     ";
 const getFFN = "9a3b7ff2-58ed-40fd-add5-1e5158059d1c";
 
 const getLastUpdated = "--------------";
 const getBuild = "----------------";
 
-function print(getBranch, getBuild, getLastUpdated, getFFN) {
-    console.log(getBranch + "  " + getBuild + "  " + getLastUpdated + "  " + getFFN);
+function print(getName, getBranch, getBuild, getLastUpdated, getFFN) {
+    console.log(getName + "|" + getBranch + "|" + getBuild + "|" + getLastUpdated + "|" + getFFN);
 }
 
 https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RReleaseData?audienceFFN=" + getFFN, (getResponse) => {
@@ -36,5 +37,5 @@ https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RRe
         }
     });
 }).on("error", (getError) => {
-    print(getBranch, getBuild, getLastUpdated, getFFN);
+    print(getName, getBranch, getBuild, getLastUpdated, getFFN);
 });

@@ -2,14 +2,15 @@
 
 const https = require("https");
 
+const getName = "Current Channel (Preview)                           ";
 const getBranch = "Insiders::CC" + "        ";
 const getFFN = "64256afe-f5d9-4f86-8936-8840a6a4f5be";
 
 const getLastUpdated = "--------------";
 const getBuild = "----------------";
 
-function print(getBranch, getBuild, getLastUpdated, getFFN) {
-    console.log(getBranch + "  " + getBuild + "  " + getLastUpdated + "  " + getFFN);
+function print(getName, getBranch, getBuild, getLastUpdated, getFFN) {
+    console.log(getName + "|" + getBranch + "|" + getBuild + "|" + getLastUpdated + "|" + getFFN);
 }
 
 https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RReleaseData?audienceFFN=" + getFFN, (getResponse) => {
@@ -36,5 +37,5 @@ https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RRe
         }
     });
 }).on("error", (getError) => {
-    print(getBranch, getBuild, getLastUpdated, getFFN);
+    print(getName, getBranch, getBuild, getLastUpdated, getFFN);
 });
