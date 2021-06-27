@@ -10,7 +10,7 @@ const getLastUpdated = "--------------";
 const getBuild = "----------------";
 
 function print(getName, getBranch, getBuild, getLastUpdated, getFFN) {
-    console.log(getName + "|" + getBranch + "|" + getBuild + "|" + getLastUpdated + "|" + getFFN);
+    console.log(getName + "|" + getBranch + "|" + getBuild + "|" + getLastUpdated + "|" + getFFN + "|");
 }
 
 https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RReleaseData?audienceFFN=" + getFFN, (getResponse) => {
