@@ -27,4 +27,27 @@ echo > defconfig
 	echo "---------------------------------"
 	echo Last updated $(date)
 } > defconfig
+{
+	echo "Channel Name                                        |Audience Data       |Available Build |Timestamp (UTC) |Audience ID                         |"
+	echo "------------                                        |-------------       |--------------- |--------------- |-----------                         |"
+    node src/Dogfood_DevMain_7.js
+    node src/Dogfood_CC_7.js
+    node src/Dogfood_DCEXT_7.js
+    node src/Dogfood_FRDC_7.js
+    echo ""
+    node src/Microsoft_DevMain_7.js
+    node src/Microsoft_CC_7.js
+    node src/Microsoft_FRDC_7.js
+    node src/Microsoft_DC_7.js
+    echo ""
+    node src/Insiders_DevMain_7.js
+    node src/Insiders_CC_7.js
+    node src/Insiders_FRDC_7.js
+    echo ""
+    node src/Production_CC_7.js
+    node src/Production_MEC_7.js
+    node src/Production_DC_7.js
+	echo "---------------------------------"
+	echo Last updated $(date)
+} > defconfig_win7
 echo $(date) > description
