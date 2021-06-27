@@ -1,5 +1,7 @@
 echo > defconfig
 {
+	echo "Channel Name                                        |Audience Data       |Available Build |Timestamp (UTC) |Audience ID                         |"
+	echo "------------                                        |-------------       |--------------- |--------------- |-----------                         |"
     node src/Dogfood_DevMain.js
     node src/Dogfood_CC.js
     node src/Dogfood_DCEXT.js
@@ -22,7 +24,7 @@ echo > defconfig
     node src/Production_MEC.js
     node src/Production_DC.js
     node src/Production_LTSC.js
-	echo "-------------------------------------------------------------------"
+	echo "---------------------------------"
 	echo Last updated $(date)
 } > defconfig
 echo $(date) > description
