@@ -1,7 +1,7 @@
 echo > defconfig
 {
-	echo "Channel Name                                        Audience Data       Available Build Timestamp (UTC) Audience ID"
-	echo "------------                                        -------------       --------------- --------------- -----------"
+	echo "Channel Name                                        Audience Data        Available Build  Timestamp (UTC)  Audience ID"
+	echo "------------                                        -------------        ---------------  ---------------  -----------"
     node src/Dogfood_DevMain.js
     node src/Dogfood_CC.js
     node src/Dogfood_DCEXT.js
