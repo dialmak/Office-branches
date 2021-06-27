@@ -31,9 +31,9 @@ https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RRe
 
             const getBuild = getParsedData.AvailableBuild;
 
-            print(getBranch, getBuild, getLastUpdated, getFFN);
+            print(getName, getBranch, getBuild, getLastUpdated, getFFN);
         } else {
-            print(getBranch, getBuild, getLastUpdated, getFFN);
+            print(getName, getBranch, getBuild, getLastUpdated, getFFN);
         }
     });
 }).on("error", (getError) => {
