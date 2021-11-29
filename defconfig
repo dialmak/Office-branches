@@ -6,14 +6,14 @@ Semi-Annual Enterprise Channel [Dogfood]            |Dogfood::DCEXT      |16.0.1
 Semi-Annual Enterprise Channel (Preview) [Dogfood]  |Dogfood::FRDC       |16.0.11929.20562|05.03.2020 20:54|834504cc-dc55-4c6d-9e71-e024d0253f6d|
 
 Beta Channel [Microsoft]                            |Microsoft::DevMain  |16.0.14723.20000|25.11.2021 00:10|b61285dd-d9f7-41f2-9757-8f61cba4e9c8|
-Current Channel [Microsoft]                         |Microsoft::CC       |16.0.14701.20170|24.11.2021 06:50|5462eee5-1e97-495b-9370-853cd873bb07|
+Current Channel [Microsoft]                         |Microsoft::CC       |16.0.14701.20170|29.11.2021 19:35|5462eee5-1e97-495b-9370-853cd873bb07|
 Perpetual 2021 Enterprise Channel [Microsoft]       |Microsoft::LTSC2021 |16.0.14332.20190|18.11.2021 18:55|86752282-5841-4120-ac80-db03ae6b5fdb|
 Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.14326.20600|09.11.2021 08:45|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
 Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.13801.21050|09.11.2021 08:50|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
 Perpetual 2019 Enterprise Channel [Microsoft]       |Microsoft::LTSC     |16.0.10381.20001|18.11.2021 18:40|1d2d2ea6-1680-4c56-ac58-a441c8c24ff9|
 
 Beta Channel                                        |Insiders::DevMain   |16.0.14718.20000|24.11.2021 14:45|5440fd1f-7ecb-4221-8110-145efaa6372f|
-Current Channel (Preview)                           |Insiders::CC        |16.0.14701.20166|23.11.2021 15:15|64256afe-f5d9-4f86-8936-8840a6a4f5be|
+Current Channel (Preview)                           |Insiders::CC        |16.0.14701.20170|29.11.2021 19:35|64256afe-f5d9-4f86-8936-8840a6a4f5be|
 Semi-Annual Enterprise Channel (Preview)            |Insiders::FRDC      |16.0.14326.20600|15.11.2021 16:05|b8f9b850-328d-4355-9145-c59439a0c4cf|
 Perpetual 2019 Enterprise Channel (Preview)         |Insiders::LTSC      |16.0.10351.20054|10.03.2020 14:38|2e148de9-61c8-4051-b103-4af54baffbb4|
 
@@ -23,4 +23,4 @@ Monthly Enterprise Channel                          |Production::MEC     |16.0.1
 Semi-Annual Enterprise Channel                      |Production::DC      |16.0.13801.21050|22.11.2021 17:30|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10380.20037|16.11.2021 18:15|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
 ---------------------------------
-Last updated Mon Nov 29 19:10:38 UTC 2021
+Last updated Mon Nov 29 19:54:22 UTC 2021
