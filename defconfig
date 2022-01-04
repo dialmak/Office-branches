@@ -6,7 +6,7 @@ Semi-Annual Enterprise Channel [Dogfood]            |Dogfood::DCEXT      |16.0.1
 Semi-Annual Enterprise Channel (Preview) [Dogfood]  |Dogfood::FRDC       |16.0.11929.20562|05.03.2020 20:54|834504cc-dc55-4c6d-9e71-e024d0253f6d|
 
 Beta Channel [Microsoft]                            |Microsoft::DevMain  |16.0.14901.20000|04.01.2022 02:00|b61285dd-d9f7-41f2-9757-8f61cba4e9c8|
-Current Channel [Microsoft]                         |Microsoft::CC       |16.0.14827.20030|03.01.2022 20:05|5462eee5-1e97-495b-9370-853cd873bb07|
+Current Channel [Microsoft]                         |Microsoft::CC       |16.0.14827.20030|04.01.2022 06:55|5462eee5-1e97-495b-9370-853cd873bb07|
 Perpetual 2021 Enterprise Channel [Microsoft]       |Microsoft::LTSC2021 |16.0.14332.20213|03.01.2022 18:05|86752282-5841-4120-ac80-db03ae6b5fdb|
 Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.14326.20702|16.12.2021 23:40|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
 Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.13801.21092|16.12.2021 21:20|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
@@ -23,4 +23,4 @@ Monthly Enterprise Channel                          |Production::MEC     |16.0.1
 Semi-Annual Enterprise Channel                      |Production::DC      |16.0.13801.21092|31.12.2021 15:45|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10382.20010|28.12.2021 18:15|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
 ---------------------------------
-Last updated Tue Jan 4 06:56:39 UTC 2022
+Last updated Tue Jan 4 07:16:03 UTC 2022
