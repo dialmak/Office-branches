@@ -10,12 +10,12 @@ Current Channel [Microsoft]                         |Microsoft::CC       |16.0.1
 Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.12527.20988|11.08.2020 08:55|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
 Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.12527.21416|08.12.2020 11:04|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
 
-Beta Channel                                        |Insiders::DevMain   |16.0.12527.22086|12.01.2022 09:35|5440fd1f-7ecb-4221-8110-145efaa6372f|
-Current Channel (Preview)                           |Insiders::CC        |16.0.12527.22086|12.01.2022 10:00|64256afe-f5d9-4f86-8936-8840a6a4f5be|
+Beta Channel                                        |Insiders::DevMain   |16.0.12527.22086|13.01.2022 17:15|5440fd1f-7ecb-4221-8110-145efaa6372f|
+Current Channel (Preview)                           |Insiders::CC        |16.0.12527.22086|13.01.2022 17:15|64256afe-f5d9-4f86-8936-8840a6a4f5be|
 Semi-Annual Enterprise Channel (Preview)            |Insiders::FRDC      |16.0.12527.22086|13.01.2022 10:10|b8f9b850-328d-4355-9145-c59439a0c4cf|
 
 Current Channel                                     |Production::CC      |16.0.12527.22086|13.01.2022 10:00|492350f6-3a01-4f97-b9c0-c7c6ddf67d60|
 Monthly Enterprise Channel                          |Production::MEC     |16.0.12527.22086|13.01.2022 10:10|55336b82-a18d-4dd6-b5f6-9e5095c314a6|
 Semi-Annual Enterprise Channel                      |Production::DC      |16.0.12527.22086|13.01.2022 09:55|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 ---------------------------------
-Last updated Thu Jan 13 17:13:54 UTC 2022
+Last updated Thu Jan 13 17:55:01 UTC 2022
