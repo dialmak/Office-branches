@@ -9,7 +9,7 @@ Beta Channel [Microsoft]                            |Microsoft::DevMain  |16.0.1
 Current Channel [Microsoft]                         |Microsoft::CC       |16.0.14827.20130|22.01.2022 07:20|5462eee5-1e97-495b-9370-853cd873bb07|
 Perpetual 2021 Enterprise Channel [Microsoft]       |Microsoft::LTSC2021 |16.0.14332.20227|19.01.2022 18:15|86752282-5841-4120-ac80-db03ae6b5fdb|
 Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.14326.20738|11.01.2022 16:25|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
-Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.14326.20738|11.01.2022 08:45|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
+Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.14326.20738|22.01.2022 16:45|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
 Perpetual 2019 Enterprise Channel [Microsoft]       |Microsoft::LTSC     |16.0.10383.20001|13.01.2022 19:25|1d2d2ea6-1680-4c56-ac58-a441c8c24ff9|
 
 Beta Channel                                        |Insiders::DevMain   |16.0.14912.20000|19.01.2022 14:40|5440fd1f-7ecb-4221-8110-145efaa6372f|
@@ -20,7 +20,7 @@ Perpetual 2019 Enterprise Channel (Preview)         |Insiders::LTSC      |16.0.1
 Current Channel                                     |Production::CC      |16.0.14729.20260|15.01.2022 16:05|492350f6-3a01-4f97-b9c0-c7c6ddf67d60|
 Perpetual 2021 Enterprise Channel                   |Production::LTSC2021|16.0.14332.20216|19.01.2022 18:15|5030841d-c919-4594-8d2d-84ae4f96e58e|
 Monthly Enterprise Channel                          |Production::MEC     |16.0.14701.20290|15.01.2022 15:55|55336b82-a18d-4dd6-b5f6-9e5095c314a6|
-Semi-Annual Enterprise Channel                      |Production::DC      |16.0.14326.20738|21.01.2022 16:20|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
+Semi-Annual Enterprise Channel                      |Production::DC      |16.0.13801.21092|22.01.2022 16:45|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10382.20034|19.01.2022 18:20|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
 ---------------------------------
-Last updated Sat Jan 22 16:17:22 UTC 2022
+Last updated Sat Jan 22 17:01:36 UTC 2022
