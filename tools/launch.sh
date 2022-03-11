@@ -1,5 +1,9 @@
 echo > defconfig
-{
+{ 
+        echo "==========================="
+	echo "СЛАВА УКРАИНЕ! ПУТИН ХУЙЛО."
+        echo "==========================="
+	echo ""
 	echo "Channel Name                                        |Audience Data       |Available Build |Timestamp (UTC) |Audience ID                         |"
 	echo "------------                                        |-------------       |--------------- |--------------- |-----------                         |"
     node src/Dogfood_DevMain.js
