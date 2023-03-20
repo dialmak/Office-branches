@@ -11,7 +11,7 @@ Semi-Annual Enterprise Channel (Preview) [Dogfood]  |Dogfood::FRDC       |16.0.1
 
 Beta Channel [Microsoft]                            |Microsoft::DevMain  |16.0.16316.20000|20.03.2023 12:35|b61285dd-d9f7-41f2-9757-8f61cba4e9c8|
 Current Channel [Microsoft]                         |Microsoft::CC       |16.0.16227.20158|20.03.2023 15:25|5462eee5-1e97-495b-9370-853cd873bb07|
-Perpetual 2021 Enterprise Channel [Microsoft]       |Microsoft::LTSC2021 |16.0.14332.20484|20.03.2023 17:05|86752282-5841-4120-ac80-db03ae6b5fdb|
+Perpetual 2021 Enterprise Channel [Microsoft]       |Microsoft::LTSC2021 |16.0.14332.20484|20.03.2023 17:15|86752282-5841-4120-ac80-db03ae6b5fdb|
 Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.16130.20306|17.03.2023 22:35|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
 Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.15601.20578|20.03.2023 17:00|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
 Perpetual 2019 Enterprise Channel [Microsoft]       |Microsoft::LTSC     |16.0.10397.20003|16.03.2023 20:45|1d2d2ea6-1680-4c56-ac58-a441c8c24ff9|
@@ -22,9 +22,9 @@ Semi-Annual Enterprise Channel (Preview)            |Insiders::FRDC      |16.0.1
 Perpetual 2019 Enterprise Channel (Preview)         |Insiders::LTSC      |16.0.10351.20054|10.03.2020 14:38|2e148de9-61c8-4051-b103-4af54baffbb4|
 
 Current Channel                                     |Production::CC      |16.0.16130.20332|20.03.2023 16:55|492350f6-3a01-4f97-b9c0-c7c6ddf67d60|
-Perpetual 2021 Enterprise Channel                   |Production::LTSC2021|16.0.14332.20461|20.03.2023 17:05|5030841d-c919-4594-8d2d-84ae4f96e58e|
+Perpetual 2021 Enterprise Channel                   |Production::LTSC2021|16.0.14332.20481|20.03.2023 17:15|5030841d-c919-4594-8d2d-84ae4f96e58e|
 Monthly Enterprise Channel                          |Production::MEC     |16.0.16026.20238|18.03.2023 15:09|55336b82-a18d-4dd6-b5f6-9e5095c314a6|
 Semi-Annual Enterprise Channel                      |Production::DC      |16.0.15601.20578|20.03.2023 17:00|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
-Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10396.20023|16.03.2023 17:20|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
+Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10396.20023|20.03.2023 17:20|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
 ---------------------------------
-Last updated Mon Mar 20 17:11:36 UTC 2023
+Last updated Mon Mar 20 19:54:22 UTC 2023
