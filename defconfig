@@ -14,7 +14,7 @@ Current Channel [Microsoft]                         |Microsoft::CC       |16.0.1
 Perpetual 2021 Enterprise Channel [Microsoft]       |Microsoft::LTSC2021 |16.0.14332.20542|27.07.2023 18:32|86752282-5841-4120-ac80-db03ae6b5fdb|
 Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.16130.20694|27.07.2023 22:05|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
 Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.16130.20694|28.07.2023 02:10|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
-Perpetual 2019 Enterprise Channel [Microsoft]       |Microsoft::LTSC     |16.0.10401.20018|26.07.2023 00:32|1d2d2ea6-1680-4c56-ac58-a441c8c24ff9|
+Perpetual 2019 Enterprise Channel [Microsoft]       |Microsoft::LTSC     |16.0.10401.20025|02.08.2023 16:47|1d2d2ea6-1680-4c56-ac58-a441c8c24ff9|
 
 Beta Channel                                        |Insiders::DevMain   |16.0.16731.20000|02.08.2023 13:16|5440fd1f-7ecb-4221-8110-145efaa6372f|
 Current Channel (Preview)                           |Insiders::CC        |16.0.16626.20134|01.08.2023 16:55|64256afe-f5d9-4f86-8936-8840a6a4f5be|
@@ -27,4 +27,4 @@ Monthly Enterprise Channel                          |Production::MEC     |16.0.1
 Semi-Annual Enterprise Channel                      |Production::DC      |16.0.16130.20694|31.07.2023 18:35|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10401.20018|27.07.2023 18:25|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
 ---------------------------------
-Last updated Wed Aug 2 16:14:39 UTC 2023
+Last updated Wed Aug 2 17:09:43 UTC 2023
