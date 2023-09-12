@@ -4,7 +4,7 @@
 
 Channel Name                                        |Audience Data       |Available Build |Timestamp (UTC) |Audience ID                         |
 ------------                                        |-------------       |--------------- |--------------- |-----------                         |
-Beta Channel [Dogfood]                              |Dogfood::DevMain    |16.0.16907.20000|11.09.2023 12:15|ea4a4090-de26-49d7-93c1-91bff9e53fc3|
+Beta Channel [Dogfood]                              |Dogfood::DevMain    |16.0.16910.20004|12.09.2023 18:55|ea4a4090-de26-49d7-93c1-91bff9e53fc3|
 Current Channel [Dogfood]                           |Dogfood::CC         |16.0.16827.20070|12.09.2023 07:25|f3260cf1-a92c-4c75-b02e-d64c0a86a968|
 Semi-Annual Enterprise Channel [Dogfood]            |Dogfood::DCEXT      |16.0.14931.20888|11.01.2023 18:10|c4a7726f-06ea-48e2-a13a-9d78849eb706|
 Semi-Annual Enterprise Channel (Preview) [Dogfood]  |Dogfood::FRDC       |16.0.11929.20562|05.03.2020 20:54|834504cc-dc55-4c6d-9e71-e024d0253f6d|
@@ -16,7 +16,7 @@ Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.1
 Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.16130.20766|12.09.2023 07:50|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
 Perpetual 2019 Enterprise Channel [Microsoft]       |Microsoft::LTSC     |16.0.10402.20023|01.09.2023 20:20|1d2d2ea6-1680-4c56-ac58-a441c8c24ff9|
 
-Beta Channel                                        |Insiders::DevMain   |16.0.16907.20000|12.09.2023 16:55|5440fd1f-7ecb-4221-8110-145efaa6372f|
+Beta Channel                                        |Insiders::DevMain   |16.0.16907.20000|12.09.2023 19:00|5440fd1f-7ecb-4221-8110-145efaa6372f|
 Current Channel (Preview)                           |Insiders::CC        |16.0.16827.20056|12.09.2023 15:35|64256afe-f5d9-4f86-8936-8840a6a4f5be|
 Semi-Annual Enterprise Channel (Preview)            |Insiders::FRDC      |16.0.16731.20234|12.09.2023 07:50|b8f9b850-328d-4355-9145-c59439a0c4cf|
 Perpetual 2019 Enterprise Channel (Preview)         |Insiders::LTSC      |16.0.10351.20054|10.03.2020 14:38|2e148de9-61c8-4051-b103-4af54baffbb4|
@@ -27,4 +27,4 @@ Monthly Enterprise Channel                          |Production::MEC     |16.0.1
 Semi-Annual Enterprise Channel                      |Production::DC      |16.0.16130.20766|12.09.2023 07:50|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 Perpetual 2019 Enterprise Channel                   |Production::LTSC    |16.0.10402.20023|12.09.2023 13:25|f2e724c1-748f-4b47-8fb8-8e0d210e9208|
 ---------------------------------
-Last updated Tue Sep 12 18:54:20 UTC 2023
+Last updated Tue Sep 12 19:08:34 UTC 2023
