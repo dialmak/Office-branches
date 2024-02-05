@@ -4,22 +4,22 @@
 
 Channel Name                                        |Audience Data       |Available Build |Timestamp (UTC) |Audience ID                         |
 ------------                                        |-------------       |--------------- |--------------- |-----------                         |
-Beta Channel [Dogfood]                              |Dogfood::DevMain    |16.0.12525.20000|05.02.2024 11:09|ea4a4090-de26-49d7-93c1-91bff9e53fc3|
-Current Channel [Dogfood]                           |Dogfood::CC         |16.0.12527.20194|05.02.2024 11:09|f3260cf1-a92c-4c75-b02e-d64c0a86a968|
-Semi-Annual Enterprise Channel [Dogfood]            |Dogfood::DCEXT      |16.0.14931.20888|05.02.2024 11:09|c4a7726f-06ea-48e2-a13a-9d78849eb706|
-Semi-Annual Enterprise Channel (Preview) [Dogfood]  |Dogfood::FRDC       |16.0.11929.20562|05.02.2024 11:09|834504cc-dc55-4c6d-9e71-e024d0253f6d|
+Beta Channel [Dogfood]                              |Dogfood::DevMain    |16.0.12525.20000|05.02.2024 12:20|ea4a4090-de26-49d7-93c1-91bff9e53fc3|
+Current Channel [Dogfood]                           |Dogfood::CC         |16.0.12527.20194|05.02.2024 12:20|f3260cf1-a92c-4c75-b02e-d64c0a86a968|
+Semi-Annual Enterprise Channel [Dogfood]            |Dogfood::DCEXT      |16.0.14931.20888|05.02.2024 12:20|c4a7726f-06ea-48e2-a13a-9d78849eb706|
+Semi-Annual Enterprise Channel (Preview) [Dogfood]  |Dogfood::FRDC       |16.0.11929.20562|05.02.2024 12:20|834504cc-dc55-4c6d-9e71-e024d0253f6d|
 
-Beta Channel [Microsoft]                            |Microsoft::DevMain  |16.0.12513.20010|05.02.2024 11:09|b61285dd-d9f7-41f2-9757-8f61cba4e9c8|
-Current Channel [Microsoft]                         |Microsoft::CC       |16.0.12527.20242|05.02.2024 11:09|5462eee5-1e97-495b-9370-853cd873bb07|
-Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.12527.20988|05.02.2024 11:09|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
-Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.12527.21416|05.02.2024 11:09|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
+Beta Channel [Microsoft]                            |Microsoft::DevMain  |16.0.12513.20010|05.02.2024 12:20|b61285dd-d9f7-41f2-9757-8f61cba4e9c8|
+Current Channel [Microsoft]                         |Microsoft::CC       |16.0.12527.20242|05.02.2024 12:20|5462eee5-1e97-495b-9370-853cd873bb07|
+Semi-Annual Enterprise Channel (Preview) [Microsoft]|Microsoft::FRDC     |16.0.12527.20988|05.02.2024 12:20|9a3b7ff2-58ed-40fd-add5-1e5158059d1c|
+Semi-Annual Enterprise Channel [Microsoft]          |Microsoft::DC       |16.0.12527.21416|05.02.2024 12:20|f4f024c8-d611-4748-a7e0-02b6e754c0fe|
 
-Beta Channel                                        |Insiders::DevMain   |16.0.12527.22286|05.02.2024 11:09|5440fd1f-7ecb-4221-8110-145efaa6372f|
-Current Channel (Preview)                           |Insiders::CC        |16.0.12527.22286|05.02.2024 11:09|64256afe-f5d9-4f86-8936-8840a6a4f5be|
-Semi-Annual Enterprise Channel (Preview)            |Insiders::FRDC      |16.0.12527.22286|05.02.2024 11:09|b8f9b850-328d-4355-9145-c59439a0c4cf|
+Beta Channel                                        |Insiders::DevMain   |16.0.12527.22286|05.02.2024 12:20|5440fd1f-7ecb-4221-8110-145efaa6372f|
+Current Channel (Preview)                           |Insiders::CC        |16.0.12527.22286|05.02.2024 12:20|64256afe-f5d9-4f86-8936-8840a6a4f5be|
+Semi-Annual Enterprise Channel (Preview)            |Insiders::FRDC      |16.0.12527.22286|05.02.2024 12:20|b8f9b850-328d-4355-9145-c59439a0c4cf|
 
-Current Channel                                     |Production::CC      |16.0.12527.22286|05.02.2024 11:09|492350f6-3a01-4f97-b9c0-c7c6ddf67d60|
-Monthly Enterprise Channel                          |Production::MEC     |16.0.12527.22286|05.02.2024 11:09|55336b82-a18d-4dd6-b5f6-9e5095c314a6|
-Semi-Annual Enterprise Channel                      |Production::DC      |16.0.12527.22286|05.02.2024 11:09|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
+Current Channel                                     |Production::CC      |16.0.12527.22286|05.02.2024 12:20|492350f6-3a01-4f97-b9c0-c7c6ddf67d60|
+Monthly Enterprise Channel                          |Production::MEC     |16.0.12527.22286|05.02.2024 12:20|55336b82-a18d-4dd6-b5f6-9e5095c314a6|
+Semi-Annual Enterprise Channel                      |Production::DC      |16.0.12527.22286|05.02.2024 12:20|7ffbc6bf-bc32-4f92-8982-f9dd17fd3114|
 ---------------------------------
-Last updated Mon Feb 5 11:09:39 UTC 2024
+Last updated Mon Feb 5 12:20:35 UTC 2024
